@@ -1,7 +1,7 @@
 ---
 title: "Analysis of the mtcars Dataset"
-author: "Manas Tiwari"
-date: "22.10.2018"
+author: "Bhabani Sankar Jana"
+date: "29.04.2021"
 output:
   slidy_presentation: default
   html_document:
@@ -21,9 +21,6 @@ widgets: bootstrap
 
 - URL: *https://github.com/manastiwari/Developing-Data-Products-Week-4-Course-Project*
 - Find here all the data that have been use for this presentation and also for the first part of the data Science Project: "First, you will create a Shiny application and deploy it on Rstudio's servers.Second, you will use Slidify or Rstudio Presenter to prepare a reproducible pitch presentation about your application."
-
-### Find all details here
-URL: *https://www.coursera.org/learn/data-products/peer/tMYrn/course-project-shiny-application-and-reproducible-pitch*
 
 ---
 
